@@ -1,6 +1,6 @@
-package ca.utoronto.utm.assignment2.paint.command.pattern;
+package paint.command.pattern;
 
-import ca.utoronto.utm.assignment2.paint.shapes.Drawable;
+import paint.shapes.Drawable;
 
 import java.util.List;
 

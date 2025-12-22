@@ -1,8 +1,8 @@
-package ca.utoronto.utm.assignment2.paint.command.pattern;
+package paint.command.pattern;
 
-import ca.utoronto.utm.assignment2.paint.app.Clipboard;
-import ca.utoronto.utm.assignment2.paint.app.PaintModel;
-import ca.utoronto.utm.assignment2.paint.shapes.Drawable;
+import paint.app.Clipboard;
+import paint.app.PaintModel;
+import paint.shapes.Drawable;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
-package ca.utoronto.utm.assignment2.paint.command.pattern;
+package paint.command.pattern;
 
-import ca.utoronto.utm.assignment2.paint.app.PaintModel;
-import ca.utoronto.utm.assignment2.paint.shapes.Drawable;
+import paint.app.PaintModel;
+import paint.shapes.Drawable;
 
 /**
  * Implements the command interface to execute or undo specific actions

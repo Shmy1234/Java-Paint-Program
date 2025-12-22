@@ -1,4 +1,4 @@
-package ca.utoronto.utm.assignment2.paint.command.pattern;
+package paint.command.pattern;
 
 import java.util.Stack;
 
