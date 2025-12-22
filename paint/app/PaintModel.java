@@ -1,7 +1,7 @@
-package ca.utoronto.utm.assignment2.paint.app;
+package paint.app;
 
-import ca.utoronto.utm.assignment2.paint.command.pattern.*;
-import ca.utoronto.utm.assignment2.paint.shapes.Drawable;
+import paint.command.pattern.*;
+import paint.shapes.Drawable;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
 

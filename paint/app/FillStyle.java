@@ -1,4 +1,4 @@
-package ca.utoronto.utm.assignment2.paint.app;
+package paint.app;
 
 /**
  * Defines the type of fill styles drawable shapes can have and rendered on the screen.

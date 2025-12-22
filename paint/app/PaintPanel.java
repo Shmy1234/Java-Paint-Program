@@ -1,6 +1,6 @@
-package ca.utoronto.utm.assignment2.paint.app;
+package paint.app;
 
-import ca.utoronto.utm.assignment2.paint.strategy.DrawingStrategy;
+import paint.strategy.DrawingStrategy;
 import javafx.event.EventHandler;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;

@@ -1,6 +1,6 @@
-package ca.utoronto.utm.assignment2.paint.app;
+package paint.app;
 
-import ca.utoronto.utm.assignment2.paint.strategy.*;
+import paint.strategy.*;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.control.Button;
