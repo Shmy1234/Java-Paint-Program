@@ -1,5 +1,3 @@
-package ca.utoronto.utm.assignment2;
-
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
