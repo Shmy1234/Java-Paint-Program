@@ -1,7 +1,7 @@
-package ca.utoronto.utm.assignment2.paint.strategy;
+package paint.strategy;
 
-import ca.utoronto.utm.assignment2.paint.app.FillStyle;
-import ca.utoronto.utm.assignment2.paint.app.PaintModel;
+import paint.app.FillStyle;
+import paint.app.PaintModel;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.paint.Color;
 

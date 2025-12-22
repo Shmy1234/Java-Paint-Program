@@ -1,11 +1,11 @@
-package ca.utoronto.utm.assignment2.paint.strategy;
+package paint.strategy;
 
-import ca.utoronto.utm.assignment2.paint.app.FillStyle;
-import ca.utoronto.utm.assignment2.paint.app.PaintModel;
-import ca.utoronto.utm.assignment2.paint.shapes.Drawable;
-import ca.utoronto.utm.assignment2.paint.shapes.Point;
-import ca.utoronto.utm.assignment2.paint.shapes.Polyline;
-import ca.utoronto.utm.assignment2.paint.shapes.ShapeFactory;
+import paint.app.FillStyle;
+import paint.app.PaintModel;
+import paint.shapes.Drawable;
+import paint.shapes.Point;
+import paint.shapes.Polyline;
+import paint.shapes.ShapeFactory;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.input.MouseButton;
 import javafx.scene.input.MouseEvent;

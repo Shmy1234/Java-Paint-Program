@@ -1,8 +1,8 @@
-package ca.utoronto.utm.assignment2.paint;
+package paint;
 
 
-import ca.utoronto.utm.assignment2.paint.app.PaintModel;
-import ca.utoronto.utm.assignment2.paint.app.View;
+import paint.app.PaintModel;
+import paint.app.View;
 import javafx.application.Application;
 import javafx.stage.Stage;
 

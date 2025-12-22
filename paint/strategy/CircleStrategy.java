@@ -1,11 +1,11 @@
-package ca.utoronto.utm.assignment2.paint.strategy;
+package paint.strategy;
 
-import ca.utoronto.utm.assignment2.paint.app.FillStyle;
-import ca.utoronto.utm.assignment2.paint.app.PaintModel;
-import ca.utoronto.utm.assignment2.paint.shapes.Circle;
-import ca.utoronto.utm.assignment2.paint.shapes.Drawable;
-import ca.utoronto.utm.assignment2.paint.shapes.Point;
-import ca.utoronto.utm.assignment2.paint.shapes.ShapeFactory;
+import paint.app.FillStyle;
+import paint.app.PaintModel;
+import paint.shapes.Circle;
+import paint.shapes.Drawable;
+import paint.shapes.Point;
+import paint.shapes.ShapeFactory;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.paint.Color;
