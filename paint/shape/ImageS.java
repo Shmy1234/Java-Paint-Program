@@ -1,9 +1,9 @@
-package ca.utoronto.utm.assignment2.paint.shapes;
+package paint.shapes;
 
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.image.Image;
 import javafx.scene.paint.Color;
-import ca.utoronto.utm.assignment2.paint.app.FillStyle;
+import paint.app.FillStyle;
 
 /**
  * Representation of for the image.

@@ -1,4 +1,4 @@
-package ca.utoronto.utm.assignment2.paint.shapes;
+package paint.shapes;
 
 import javafx.scene.paint.Color;
 

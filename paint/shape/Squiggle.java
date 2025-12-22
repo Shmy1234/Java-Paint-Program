@@ -1,6 +1,6 @@
-package ca.utoronto.utm.assignment2.paint.shapes;
+package paint.shapes;
 
-import ca.utoronto.utm.assignment2.paint.app.FillStyle;
+import paint.app.FillStyle;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
 import java.util.ArrayList;
