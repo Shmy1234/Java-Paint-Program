@@ -1,4 +1,4 @@
-# JavaFX Paint Program (MVC)
+# Java Paint Program 
 
 A JavaFX paint application that lets you draw and edit shapes on a canvas, change styling (color/line width/fill), select and move shapes (single or multi-select), and use **Cut / Copy / Paste / Delete** with **Undo / Redo**. It also supports **Import Image** (adds an image as a drawable item on the canvas).
 
